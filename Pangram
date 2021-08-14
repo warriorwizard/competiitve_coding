@@ -1,0 +1,11 @@
+n=int(input())
+char=input().lower()
+
+b=ord('a')
+
+for i in range(b,b+26):
+	if chr(i) not in char:
+		print('no')
+		break
+else:
+	print('yes')
