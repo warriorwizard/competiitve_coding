@@ -1,3 +1,4 @@
+#anton  and letters
 lis=input().strip('{').strip('}')
 a=[]
 for i in lis:
