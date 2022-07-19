@@ -1,3 +1,5 @@
+#python3 code
+
 n=int(input())
 char=input().lower()
 
@@ -9,3 +11,4 @@ for i in range(b,b+26):
 		break
 else:
 	print('yes')
+	
