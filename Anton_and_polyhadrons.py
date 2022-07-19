@@ -1,4 +1,5 @@
 #anton and polyhadrons
+#python3
 
 n=int(input())
 a=[]
