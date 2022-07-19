@@ -1,5 +1,5 @@
 #anton  and letters
-#first code i have written
+#first code i have written in this competitive_coding_repo
 lis=input().strip('{').strip('}')
 a=[]
 for i in lis:
