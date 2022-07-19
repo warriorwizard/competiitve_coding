@@ -1,5 +1,5 @@
 #anton  and letters
-#first code i have written in this competitive repo
+#first code i have written in this competitive repository
 
 
 lis=input().strip('{').strip('}')
