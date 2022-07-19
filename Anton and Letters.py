@@ -1,5 +1,7 @@
 #anton  and letters
+
 #first code i have written in this competitive repo and i am going to add more
+
 lis=input().strip('{').strip('}')
 a=[]
 for i in lis:
