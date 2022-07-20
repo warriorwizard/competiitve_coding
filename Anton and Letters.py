@@ -1,4 +1,5 @@
 #first code i have written in this competitive repository
+#adding collaborator
 
 
 lis=input().strip('{').strip('}')
