@@ -10,6 +10,4 @@ for i in e:
 		t+=c
 	elif i=='4':
 		t+=d
-		
-#here we go
 print(t)		
